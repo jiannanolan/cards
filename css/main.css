@@ -31,3 +31,13 @@ html {
     display: block;
     margin: 0 auto 1rem;
 }
+
+.cards strong {
+    display: block;
+    margin-bottom: 1rem;
+    font-size: 1.125rem;
+}
+
+.cards dl {
+  margin-bottom: 1rem;
+}
